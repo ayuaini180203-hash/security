@@ -144,8 +144,6 @@ JANGAN SPAM & KIRIM LINK SEMBARANGAN`,
                 { text: "ASUPAN FREE", url: PROMO_CHANNEL }
               ],
               [
-                { text: "RATE PAP CEWEK", url: "https://t.me/Ratepapcewek_SDCT" }
-              ]
             ]
           }
         }

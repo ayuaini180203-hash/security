@@ -143,7 +143,6 @@ JANGAN SPAM & KIRIM LINK SEMBARANGAN`,
               [
                 { text: "ASUPAN FREE", url: PROMO_CHANNEL }
               ],
-              [
             ]
           }
         }
